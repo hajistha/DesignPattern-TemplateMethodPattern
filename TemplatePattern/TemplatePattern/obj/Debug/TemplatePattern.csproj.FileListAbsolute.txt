@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\DELL\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\DELL\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\DELL\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\DELL\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.pdb
